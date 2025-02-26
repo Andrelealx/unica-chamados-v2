@@ -1,7 +1,7 @@
 <?php
   session_start();
 ?>
-<!DOCTYPE html>
+<!DOCTYPE html> //teste comentario
 <html lang="pt">
 <head>
   <meta charset="UTF-8">
@@ -25,7 +25,7 @@
       color: #f8f9fa;
       margin: 0;
       padding-bottom: 20px;
-    }
+    }  //teste comentario
 
     /* Cabeçalho com efeito profissional */
     header.header {
